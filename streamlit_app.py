@@ -59,7 +59,7 @@ similars = pickle.load(open('similars.pkl', 'rb'))
 
 
 # Title and description
-st.title('Movie Recommender')
+st.title('CineSelect Movie Recommender')
 st.write("Discover movies similar to the ones you love! Enter the name of a movie, and we'll recommend similar ones.")
 
 
