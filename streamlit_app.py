@@ -5,7 +5,7 @@ import requests
 
 # Set page configuration
 st.set_page_config(
-    page_title='Movie Recommender',
+    page_title='CineSelect',
     page_icon=':clapper:',
     layout='wide',
     initial_sidebar_state='collapsed'
